@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
 header {
     background: antiquewhite;
@@ -914,6 +913,10 @@ footer {
 
         .top_part, .down_part {
             padding: 2rem;
+        }
+
+        .down_part {
+            padding-right: 0;
         }
 
         .about {
